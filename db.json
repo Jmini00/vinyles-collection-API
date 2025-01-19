@@ -1,0 +1,83 @@
+{ "vinyles": [
+  
+  {
+    "id": 1,
+      "album": "Hotel California",
+      "artist": "EAGLES",
+      "year": 1982,
+      "picture": "assets/vinyles/eagles.webp"
+  },
+
+  {
+    "id": 2,
+      "album": "White Pony",
+      "artist": "DEFTONES",
+      "year": 1982,
+      "picture": "assets/vinyles/deftones_white_pony.webp"
+  },
+
+  {
+    "id": 3,
+      "album": "Nirvana",
+      "artist": "NIRVANA",
+      "year": 1982,
+      "picture": "assets/vinyles/nirvana.webp"
+  },
+
+  {
+    "id": 4,
+      "album": "Nevermind",
+      "artist": "NIRVANA",
+      "year": 1982,
+      "picture": "assets/vinyles/nirvana_nevermind.webp"
+  },
+
+  {
+    "id": 5,
+      "album": "Ten",
+      "artist": "PEARL JAM",
+      "year": 1982,
+      "picture": "assets/vinyles/pearl_jam.webp"
+  },
+
+  {
+    "id": 6,
+      "album": "Led Zeppelin",
+      "artist": "LED ZEPPELIN",
+      "year": 1982,
+      "picture": "assets/vinyles/led_zeppelin.webp"
+  },
+
+  {
+    "id": 7,
+      "album": "Led Zeppelin II",
+      "artist": "LED ZEPPELIN",
+      "year": 1982,
+      "picture": "assets/vinyles/led_zeppelin2.webp"
+  },
+
+  {
+    "id": 8,
+      "album": "Absolution",
+      "artist": "MUSE",
+      "year": 1982,
+      "picture": "assets/vinyles/muse_absolution.webp"
+  },
+
+  {
+    "id": 9,
+      "album": "Simulation Theory",
+      "artist": "MUSE",
+      "year": 1982,
+      "picture": "assets/vinyles/muse_simulation_theory.webp"
+  },
+
+  {
+    "id": 10,
+      "album": "Breakfast in America",
+      "artist": "SUPERTRAMP",
+      "year": 1982,
+      "picture": "assets/vinyles/supertramp.webp"
+  }
+
+]}
